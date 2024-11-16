@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Comfortaa', sans-serif;
+            color: #FFFFFF;
+            overflow: hidden;
+        }
+
+        /* Background container styling */
+        .background-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            z-index: -1;
+        }
+
+        /* Video background styling */
+        video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+            filter: brightness(0.5);
+        }
+
+        /* Dashboard content styling */
+        .content-container {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .dashboard-title {
+            font-size: 2.5em;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: #FFDD57;
+        }
+
+        .dashboard-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            max-width: 1000px;
+            width: 100%;
+        }
+
+        .dashboard-card {
+            background-color: rgba(22, 33, 62, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            flex: 1 1 300px;
+            color: #FFFFFF;
+        }
+
+        .card-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: #FF6F61;
+        }
+
+        .card-content {
+            font-size: 1em;
+            color: #CCCCCC;
+        }
+
+        /* Buttons for template selection */
+        .template-button {
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #3b82f6;
+            color: #FFFFFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-size: 1em;
+        }
+
+        .template-button:hover {
+            background-color: #2563eb;
+        }
+    </style>
+</head>
+<body>
+    <!-- Video Background -->
+    <div class="background-container">
+        <video autoplay loop muted playsinline>
+            <source src="C:\Users\UnfoundedOmnis\Documents\Phishing_Project\board.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <!-- Dashboard Content -->
+    <div class="content-container">
+        <!-- Dashboard Title -->
+        <div class="dashboard-title">Phishing Simulator Dashboard</div>
+
+        <!-- Dashboard Container -->
+        <div class="dashboard-container">
+            <!-- User Statistics Card -->
+            <div class="dashboard-card">
+                <div class="card-title">User Statistics</div>
+                <div class="card-content">
+                    <p>Total Emails Sent: XXX</p>
+                    <p>Click Rate: XX%</p>
+                    <p>Response Rate: XX%</p>
+                </div>
+            </div>
+
+            <!-- Email Templates Card with Real/Fake Template Choices -->
+            <div class="dashboard-card">
+                <div class="card-title">Email Templates</div>
+                <div class="card-content">
+                    <p>Select a phishing template to view:</p>
+                    <button class="template-button" onclick="location.href='real_temp.html'">Real Phishing Template</button>
+                    <button class="template-button" onclick="location.href='fake_temp.html'">Fake Phishing Template</button>
+                </div>
+            </div>
+
+            <!-- Response Feedback Card -->
+            <div class="dashboard-card">
+                <div class="card-title">Response Feedback</div>
+                <div class="card-content">
+                    <p>Review user responses and learnings from each simulation.</p>
+                    <button class="template-button" onclick="location.href='feedback.html'">View Feedback</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
