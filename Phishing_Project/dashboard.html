@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet">
+    <!--Linking external CSS files to HTML code. -->
+    <link rel="stylesheet" href="styles/body.css">
+    <link rel="stylesheet" href="styles/background-container.css">
+    <link rel="stylesheet" href="styles/video.css">
+    <link rel="stylesheet" href="styles/content-container.css">
+    <link rel="stylesheet" href="styles/dashboard-title.css">
+    <link rel="stylesheet" href="styles/dashboard-container.css">
+    <link rel="stylesheet" href="styles/dashboard-card.css">
+    <link rel="stylesheet" href="styles/template-button.css">
+</head>
+<body>
+    <!-- Video Background -->
+    <div class="background-container">
+        <video autoplay loop muted playsinline>
+            <source src="C:\Users\UnfoundedOmnis\Documents\Phishing_Project\board.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <!-- Dashboard Content -->
+    <div class="content-container">
+        <!-- Dashboard Title -->
+        <div class="dashboard-title">Phishing Simulator Dashboard</div>
+
+        <!-- Dashboard Container -->
+        <div class="dashboard-container">
+            <!-- User Statistics Card -->
+            <div class="dashboard-card">
+                <div class="card-title">User Statistics</div>
+                <div class="card-content">
+                    <p>Total Emails Sent: XXX</p>
+                    <p>Click Rate: XX%</p>
+                    <p>Response Rate: XX%</p>
+                </div>
+            </div>
+
+            <!-- Email Templates Card with Real/Fake Template Choices -->
+            <div class="dashboard-card">
+                <div class="card-title">Email Templates</div>
+                <div class="card-content">
+                    <p>Select a phishing template to view:</p>
+                    <button class="template-button" onclick="location.href='real-temp.html'">Real Phishing Template</button>
+                    <button class="template-button" onclick="location.href='fake-temp.html'">Fake Phishing Template</button>
+                </div>
+            </div>
+
+            <!-- Response Feedback Card -->
+            <div class="dashboard-card">
+                <div class="card-title">Response Feedback</div>
+                <div class="card-content">
+                    <p>Review user responses and learnings from each simulation.</p>
+                    <button class="template-button" onclick="location.href='feedback.html'">View Feedback</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

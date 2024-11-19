@@ -1,0 +1,7 @@
+/* Title */
+.title {
+    font-size: 2.5em;
+    color: #ff4500; /* Unpleasant red-orange */
+    text-align: left; /* Misaligned title */
+    text-shadow: 2px 2px 5px #000; /* Overpowering shadow */
+}

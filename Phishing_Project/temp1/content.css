@@ -1,0 +1,17 @@
+/* Main content styling */
+.content {
+    padding: 30px;
+}
+
+.content h2 {
+    color: #0073e6;
+    font-size: 1.6em;
+    margin-bottom: 15px;
+}
+
+.content p {
+    font-size: 1em;
+    color: #555555;
+    margin: 15px 0;
+    line-height: 1.5;
+}

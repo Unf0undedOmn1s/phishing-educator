@@ -1,0 +1,14 @@
+/* Submit button */
+.submit-button {
+    width: 85%; /* Unbalanced button width */
+    padding: 12px;
+    background-color: #00ff00; /* Jarring green */
+    border: none;
+    border-radius: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #000; /* Unreadable on green */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); /* Overly heavy shadow */
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
