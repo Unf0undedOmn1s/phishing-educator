@@ -1,0 +1,12 @@
+/* Header section */
+.header {
+    background-color: #0073e6;
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.header img {
+    width: 100px;
+    margin-bottom: 10px;
+}

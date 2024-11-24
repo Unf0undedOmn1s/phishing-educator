@@ -1,0 +1,11 @@
+/* Main container */
+.main-container {
+    width: 70%;
+    margin: 50px auto; /* Random margin */
+    padding: 20px;
+    background-color: #e6e6e6; /* Dull background */
+    border: 3px solid #333; /* Excessive border */
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5); /* Overdone shadow */
+    font-family: 'Comic Sans MS', cursive; /* Inappropriate font */
+}
