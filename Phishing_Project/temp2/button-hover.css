@@ -1,5 +1,0 @@
-/* Submit button hover effect */
-.submit-button:hover {
-    background-color: #ff69b4; /* Clashing pink on hover */
-    color: #fff; /* Abrupt text color change */
-}
