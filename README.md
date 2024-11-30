@@ -17,12 +17,10 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 Phishing is one of the most prevalent and effective cyberattack methods, targeting individuals and organizations by tricking them into revealing sensitive information, such as login credentials or financial details.
 ## Features
 
-1. **Web-Based Interface**: A user-friendly dashboard accessible via any web browser.
-2. **Traffic Intensity Control**: Allows users to specify the intensity of the traffic (measured in microseconds between packets) to simulate different scales of DDoS attacks.
-3. **Target IP Specification**: Users can input the target IP address (IPv4) to direct the attack traffic.
-4. **Start and Stop Controls**: Simple buttons to start and stop the DDoS attack simulation.
-5. **Logging**: Detailed logging of attack parameters and status updates, aiding in monitoring and analysis.
-6. **Educational Insights**: Informational sections explaining the importance of understanding DDoS attacks and their impact on network infrastructure.
+1. **Interactive dashboard with real-time phishing analytics.**: Provides a centralized interface to manage simulations, view analytics, and access educational resources.
+2. **Options to choose between realistic and fake phishing templates.**: Enables users to choose between realistic and fake phishing templates for various training scenarios.
+3. **Background Animations:**: Adds dynamic visuals for an engaging and modern user experience.
+4. **Educational Resources**: Includes guides, tips, and real-world examples to improve phishing awareness and prevention strategies.
 
 ## Technologies Used
 
