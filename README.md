@@ -14,7 +14,7 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 
 ## Introduction
 
-The Phishing Simulator is an interactive tool designed to educate and train users on identifying and mitigating phishing attacks. Phishing is one of the most prevalent and effective cyberattack methods, targeting individuals and organizations by tricking them into revealing sensitive information, such as login credentials or financial details.
+Phishing is one of the most prevalent and effective cyberattack methods, targeting individuals and organizations by tricking them into revealing sensitive information, such as login credentials or financial details.
 ## Features
 
 1. **Web-Based Interface**: A user-friendly dashboard accessible via any web browser.
