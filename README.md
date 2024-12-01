@@ -24,9 +24,9 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 
 ## Technologies Used
 
-- **Backend**: Flask (Python)
-- **Frontend**: HTML, CSS (embedded in HTML)
-- **Traffic Generation**: hping3
+- **Frontend**: *HTML5*: Structuring the simulator's web pages with semantic elements for accessibility and responsiveness.
+- *CSS3*: Styling the interface with modern design elements, including animations and visual effects.
+- **Visual Enhancements**: *Blender* Creating 3D animations for immersive and visually engaging backgrounds.
 - **Logging**: Python's built-in logging module with RotatingFileHandler
 
 ## Installation and Setup
