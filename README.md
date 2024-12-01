@@ -19,8 +19,8 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 
 ## Features
 
-1. **Interactive dashboard with real-time phishing analytics.**: Provides a centralized interface to manage simulations, view analytics, and access educational resources.
-2. **Options to choose between realistic and fake phishing templates.**: Enables users to choose between realistic and fake phishing templates for various training scenarios.
+1. **Interactive dashboard with real-time phishing analytics**: Provides a centralized interface to manage simulations, view analytics, and access educational resources.
+2. **Options to choose between realistic and fake phishing templates**: Enables users to choose between realistic and fake phishing templates for various training scenarios.
 3. **Background Animations:**: Adds dynamic visuals for an engaging and modern user experience.
 4. **Educational Resources**: Includes guides, tips, and real-world examples to improve phishing awareness and prevention strategies.
 
