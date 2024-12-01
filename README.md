@@ -4,6 +4,7 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 
 
 ## Table of Contents
+- [Screenshots](#screenshots)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -13,6 +14,10 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 - [Disclaimer](#disclaimer)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
+
+## Screenshots
+### Fake Template
+![Dashboard Screenshot](images/fake-temp.png)
 
 ## Introduction
 
