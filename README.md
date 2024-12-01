@@ -43,9 +43,14 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 
 ## Disclaimer
 
-This tool is intended for educational purposes only. Use it responsibly and only in environments where you have explicit permission to conduct such simulations. Misuse of DDoS tools can lead to legal consequences.
+The Phishing Simulator is a tool developed for educational purposes and professional training only. It is intended to raise awareness about phishing attacks, simulate real-world scenarios in a controlled environment, and promote best practices for cybersecurity.
+## Use Responsibly
+1) This tool must not be used for malicious purposes, including unauthorized phishing attacks or any activity that violates laws or ethical standards.
+2) Users are responsible for ensuring compliance with all applicable laws and regulations when using this simulator.
+The developers disclaim all liability for any misuse of this tool. By using this simulator, you agree to use it solely for lawful and ethical purposes.
+If you are unsure about the legality or ethical implications of using this tool, seek guidance from a qualified cybersecurity professional or legal advisor.
 
-## Disclaimer
+## Acknowledgments
 
 Special thanks to:
 Marios Grivas (@Unf0undedOmn1s)
