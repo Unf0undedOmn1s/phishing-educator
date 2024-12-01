@@ -8,6 +8,7 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
 - [Acknowledgments](#acknowledgments)
@@ -32,8 +33,9 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 - **MP4 Video Backgrounds**: Adding dynamic moving visuals for an enhanced user interface.
   
 ## Installation and Setup
-
----
+1) **Clone the repository: git clone https://github.com/yourusername/phishing-simulator.git
+2) Enter the folder: cd phishing-simulator
+3) Click on the "welcome-index.html" to begin.
 
 ## Usage
 1) Navigate the Dashboard. Explore the main dashboard, which provides access to:
