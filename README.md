@@ -29,7 +29,7 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 - **Frontend**: *HTML5*: Structuring the simulator's web pages with semantic elements for accessibility and responsiveness.
 - *CSS3*: Styling the interface with modern design elements, including animations and visual effects.
 - **Visual Enhancements**: *Blender*: Creating 3D animations for immersive and visually engaging backgrounds.
-- **MP4 Video Backgrounds**:Adding dynamic moving visuals for an enhanced user interface.
+- **MP4 Video Backgrounds**: Adding dynamic moving visuals for an enhanced user interface.
   
 ## Installation and Setup
 
