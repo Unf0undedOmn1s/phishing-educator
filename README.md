@@ -37,7 +37,7 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 
 ## Usage
 1) Navigate the Dashboard. Explore the main dashboard, which provides access to:
-   a) Phishing templates (real and fake).
+   Phishing templates (real and fake).
 2) Educational resources.
 3) Global phishing statistics.
 
