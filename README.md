@@ -33,7 +33,7 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 - **MP4 Video Backgrounds**: Adding dynamic moving visuals for an enhanced user interface.
   
 ## Installation and Setup
-1) **Clone the repository: git clone https://github.com/yourusername/phishing-simulator.git
+1) **Clone the repository: git clone https://github.com/Unf0undedOmn1s/phishing-simulator.git
 2) Enter the folder: cd phishing-simulator
 3) Click on the "welcome-index.html" to begin.
 
