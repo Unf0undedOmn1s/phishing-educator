@@ -36,10 +36,10 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 ---
 
 ## Usage
-1)Launch the simulator and navigate to the Dashboard.
-2) Choose a phishing template (realistic or fake).
-3) Simulate the phishing scenario and analyze the results.
-4) Use the educational resources to learn about phishing techniques and countermeasures.
+1) Navigate the Dashboard. Explore the main dashboard, which provides access to:
+   a) Phishing templates (real and fake).
+2) Educational resources.
+3) Global phishing statistics.
 
 ## Disclaimer
 
