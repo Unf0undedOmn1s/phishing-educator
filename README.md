@@ -1,4 +1,5 @@
 # Phishing Educator
+EN:
 
 A Phishing Simulator designed to simulate phishing scenarios for educational and professional use. This tool helps understand phishing attacks and trains individuals on identifying and mitigating such threats. It’s an ideal project for aspiring cybersecurity analysts.
 
