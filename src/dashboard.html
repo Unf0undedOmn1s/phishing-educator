@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet">
+    <!--Linking external CSS files to HTML code. -->
+    <link rel="stylesheet" href="dashboard/body.css">
+    <link rel="stylesheet" href="dashboard/background-container.css">
+    <link rel="stylesheet" href="dashboard/video.css">
+    <link rel="stylesheet" href="dashboard/content-container.css">
+    <link rel="stylesheet" href="dashboard/dashboard-title.css">
+    <link rel="stylesheet" href="dashboard/dashboard-container.css">
+    <link rel="stylesheet" href="dashboard/dashboard-card.css">
+    <link rel="stylesheet" href="dashboard/template-button.css">
+    <link rel="stylesheet" href="dashboard/background.css">
+    <link rel="stylesheet" href="dashboard/copyright.css">
+</head>
+<body>
+    <!-- Dashboard Content -->
+    <div class="content-container">
+        <!-- Dashboard Title -->
+        <div class="dashboard-title">Phishing Education Dashboard</div>
+
+        <!-- Dashboard Container -->
+        <div class="dashboard-container">
+            <!-- Staying Safe Card -->
+            <div class="dashboard-card">
+                <div class="card-title">Μένοντας Ασφαλείς</div>
+                <div class="card-content">
+                    <p><u> Browser Extension Tools:</u> uBlock Origin, HTTPS Everywhere, Privacy Badger, LastPass / Bitwarden (Password Managers). </p>
+                    <p><u>E-mail Filtering Solutions:</u> Proofpoint Essentials, Barracuda Email Security Gateway, Cisco Secure Email. </p>
+                    <p><u>Useful URL Scanners:</u> VirusTotal, CheckURL, URLVoid, PhishTank.</p>
+                    <button class="template-button" onclick="location.href='techniques.html'">Phishing Techniques</button>
+
+                </div>
+            </div>
+
+            <!-- Email Templates Card with Real/Fake Template Choices -->
+            <div class="dashboard-card">
+                <div class="card-title">Email Templates</div>
+                <div class="card-content">
+                    <p>Εδώ μπορείτε να επιλέξετε μεταξύ ενός ψεύτικου και ενός πραγματικού Phishing για να δείτε τις διαφορές μεταξύ τους.</p>
+                    <button class="template-button" onclick="location.href='real-temp.html'">Real Phishing Template</button>
+                    <button class="template-button" onclick="location.href='fake-temp.html'">Fake Phishing Template</button>
+                </div>
+            </div>
+
+            <!-- Tip of the day -->
+            <div class="dashboard-card">
+                <div class="card-title">Tip of the day!</div>
+                <div class="card-content">
+                    <p>«Πάντα να ελέγχουμε διπλά τις διευθύνσεις URL πριν κάνουμε κλικ. Οι Phishers συχνά χρησιμοποιούν διακριτικά ορθογραφικά λάθη ή διαφορετικά ονόματα τομέων για να σας εξαπατήσουν. Αν υπάρχουν αμφιβολίες, πηγαίνουμε σε κάποιο Link Checker ή περνάμε τον δείκτη του ποντικιού πάνω από το σύνδεσμο για προεπισκόπηση του προορισμού.»</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Marios Grivas, Ektoras E. Kalantzis. All Rights Reserved.</p>
+    </footer>
+    
+</body>
+</html>

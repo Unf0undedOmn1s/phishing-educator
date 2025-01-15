@@ -1,0 +1,8 @@
+/* Dashboard Container Styling */
+.dashboard-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1000px;
+    width: 100%;
+}
