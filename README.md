@@ -63,7 +63,7 @@ GR:
 
 
 ## Table of Contents
-- [Screenshots](#screenshots)
+- [Φωτογραφίες](#φωτογραφίες)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
