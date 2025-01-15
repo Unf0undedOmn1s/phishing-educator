@@ -9,8 +9,6 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation and Setup](#installation-and-setup)
-- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
 - [Acknowledgments](#acknowledgments)
@@ -69,14 +67,12 @@ GR:
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation and Setup](#installation-and-setup)
-- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## Screenshots
+## Φωτογραφίες
 ### Ψεύτικη Προσέγγιση
 ![Dashboard Screenshot](src/images/fake-temp.png)
 
