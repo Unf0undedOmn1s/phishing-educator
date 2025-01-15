@@ -39,7 +39,7 @@ Phishing is one of the most prevalent and effective cyberattack methods, targeti
 1) Navigate the Dashboard. Explore the main dashboard, which provides access to:
    Phishing templates (real and fake).
 2) Educational resources.
-3) Global phishing statistics.
+3) Daily tips.
 
 ## Disclaimer
 
@@ -100,6 +100,7 @@ GR:
 1) Πλοηγηθείτε στον πίνακα οργάνων. Εξερευνήστε το κύριο ταμπλό, το οποίο παρέχει πρόσβαση σε:
    Πρότυπα phishing (πραγματικά και ψεύτικα).
 2) Εκπαιδευτικοί πόροι.
+3) Kαθημερινές συμβουλές
 
 ## Αποποίηση ευθύνης
 
