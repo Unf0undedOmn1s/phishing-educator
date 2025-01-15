@@ -56,21 +56,23 @@ Special thanks to:
 Marios Grivas (@Unf0undedOmn1s)
 Ektoras E. Kalantzis (@Hektor754)
 
-GR:
+
 # Phishing Educator
+
+GR:
 
 Προσομοιωτής phishing που έχει σχεδιαστεί για την προσομοίωση σεναρίων για εκπαιδευτική και επαγγελματική χρήση. Αυτό το εργαλείο βοηθά στην κατανόηση των επιθέσεων phishing και εκπαιδεύει τα άτομα στον εντοπισμό και τον μετριασμό αυτών των απειλών. Είναι ένα ιδανικό έργο για επίδοξους αναλυτές κυβερνοασφάλειας.
 
 
-## Table of Contents
+## Περιεχόμενα
 - [Φωτογραφίες](#φωτογραφίες)
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+- [Εισαγωγή](#εισαγωγή)
+- [Χαρακτηριστικά](#χαρακτηριστικά)
+- [Χρησιμοποιούμενες τεχνολογίες](#χρησιμοποιούμενες-τεχνολογίες)
+- [Χρήση](#χρήση)
+- [Αποποίηση ευθύνης](#αποποίηση-ευθύνης)
+- [Ευχαριστία](#ευχαριστία)
+- [Άδειες](#άδειες)
 
 ## Φωτογραφίες
 ### Ψεύτικη Προσέγγιση
@@ -116,5 +118,5 @@ GR:
 Marios Grivas (@Unf0undedOmn1s)
 Ektoras E. Kalantzis (@Hektor754)
 
-## License
+## Άδειες
 © 2024 Marios Grivas, Ektoras E. Kalantzis. All rights reserved.
