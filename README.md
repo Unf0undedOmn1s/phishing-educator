@@ -18,7 +18,7 @@ A Phishing Simulator designed to simulate phishing scenarios for educational and
 
 ## Screenshots
 ### Fake Template
-![Dashboard Screenshot](Phishing_Project/images/fake-temp.png)
+![Dashboard Screenshot](src/images/fake-temp.png)
 
 ## Introduction
 
@@ -79,7 +79,7 @@ GR:
 
 ## Screenshots
 ### Ψεύτικη Προσέγγιση
-![Dashboard Screenshot](Phishing_Project/images/fake-temp.png)
+![Dashboard Screenshot](src/images/fake-temp.png)
 
 ## Εισαγωγή
 
