@@ -115,8 +115,8 @@ GR:
 ## Ευχαριστία
 
 Ιδιαίτερα ευχαριστία στους:
-Marios Grivas (@Unf0undedOmn1s)
-Ektoras E. Kalantzis (@Hektor754)
+Marios Grivas (https://github.com/Unf0undedOmn1s)
+Ektoras E. Kalantzis (https://github.com/Hektor754)
 
 ## Άδειες
 © 2024 Marios Grivas, Ektoras E. Kalantzis. All rights reserved.
